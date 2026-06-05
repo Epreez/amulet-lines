@@ -97,21 +97,20 @@ _Post–Lotus Field-ban Amulet Scapeshift / Titan combo reference._
 - Graveyard: None
 - Floating mana: None
 - Land drop available: No
-- Relevant library contents: 6 bouncelands, 1 Simic Growth Chamber, Kavaron, Mirrorpool, 1 Echoing deeps, 1 echoing deeps/mirrorpool, Tolaria West, Summoner's Pact, 3 crumbling vestige, and Aftermath Analyst in deck.
+- Relevant library contents: 5 bouncelands, 2 Simic Growth Chamber, Kavaron, Mirrorpool, 1 Echoing deeps, 1 echoing deeps/mirrorpool, Tolaria West, Summoner's Pact, and Aftermath Analyst in deck.
 
 ### Line
 
-1. Titan enters, grab mirrorpool and a bounceland, copy titan. Repeat this process twice with bouncelands and echoing deeps/mirrorpool. Return the 3 bouncelands to your hand.
-2. 3rd titan copy enters, grab Kavaron and a Crumbling Vestige, float 2 mana, leaving both lands untapped.
-3. Station Kavaron twice, with 2 of the titans. Then activate Kavaron, sacrificing itself, giving both remaining titans haste.
-4. Attack with both titans, first trigger grab otawara and gardens. Copy amulet with gardens using the mana from Otawara.
-5. 2nd trigger, grab Urza's cave and SGC, float 4 mana from SGC, return Otawara. Bounce the nontoken titan to hand with Otawara.
-6. 2nd main, crack cave using SGC and the untapped land from pre-combat. Grab a bounceland, floating 6 mana and casting a titan.
-7. Grab Tolaria West and bounceland, floating 9 mana, returning tolaria west with the bounce trigger. Transmute for pact, pact for analyst.
-8. Cast and crack analyst, returning mirrorpool, tolaria west, Kavaron, urza's cave, and 2 echoing deeps each copying urza's cave.
-9. Float 8 mana, leaving all 3 urza's cave and mirrorpool untapped. Crack a cave for a bounceland, putting us at 11 mana, picking up tolaria west. Transmute for zuran orb, cast it. 8 mana floating.
-10. Copy titan with mirrorpool, grabbing 2 crumbling vestiges, putting us at 11 mana.
-11. Crack 2 caves, one for shifting woodlands and 1 for urza's saga, 5 mana. Float 3 mana from shifting woodlands and one from urza's saga, sac urza's saga to zuran orb and start looping with 9 mana.
+1. Titan enters, grab Mirrorpool and a bounceland, copy titan. Repeat this process twice with bouncelands and Echoing deeps/Mirrorpool. Return the 3 bouncelands to your hand.
+3. 3rd titan copy enters, grab Kavaron and Tolaria West, float 2 mana, leaving both lands untapped.
+4. Station Kavaron twice, with 2 of the titans. Then activate Kavaron, sacrificing itself, giving both remaining titans haste.
+5. Attack with both titans, first trigger grab Otawara and Gardens. Copy amulet with gardens using the mana from Otawara.
+6. 2nd trigger, grab Urza's cave and SGC, float 4 mana from SGC, return Otawara. Bounce the nontoken titan to hand with Otawara.
+7. 2nd main, crack cave using SGC and Tolaria West. Grab a bounceland, floating 6 mana and casting a titan. Pickup Tolaria West with the bounce trigger.
+8. Grab Shifting Woodland and SGC, floating 9 mana, returning SGC with the bounce trigger. Transmute for pact, pact for analyst.
+9. Cast and crack analyst, returning Mirrorpool, Tolaria West, Kavaron, Urza's Cave, and 2 Echoing deeps each copying Mirrorpool.
+10. Float 15 mana, leaving Mirrorpool untapped. Copy titan with Mirrorpool, grabbing a bounceland and urza's saga, 17 mana, picking up Tolaria West with the bounce trigger. 
+11. Transmute Tolaria West for zuran orb, sac urza's saga to zuran orb and start looping with 14 mana.
 
 ### Result
 
