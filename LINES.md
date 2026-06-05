@@ -98,20 +98,21 @@ _Post–Lotus Field-ban Amulet Scapeshift / Titan combo reference._
 - Graveyard: None
 - Floating mana: None
 - Land drop available: No
-- Relevant library contents: 5 bouncelands, 1 Simic Growth Chamber, Kavaron, Mirrorpool, 1 Echoing deeps, 1 echoing deeps/mirrorpool, Tolaria West, Summoner's Pact, crumbling vestige, and Aftermath Analyst in deck.
+- Relevant library contents: 6 bouncelands, 1 Simic Growth Chamber, Kavaron, Mirrorpool, 1 Echoing deeps, 1 echoing deeps/mirrorpool, Tolaria West, Summoner's Pact, crumbling vestige, and Aftermath Analyst in deck.
 
 ### Line
 
-1. Titan enters, grab mirrorpool and a bounceland, copy titan. Repeat this process twice with bouncelands and echoing deeps/mirrorpool. Return 2 of the bouncelands and your starting land to your hand.
+1. Titan enters, grab mirrorpool and a bounceland, copy titan. Repeat this process twice with bouncelands and echoing deeps/mirrorpool. Return the 3 bouncelands to your hand.
 2. 3rd titan copy enters, grab Kavaron and a Crumbling Vestige, float 2 mana, leaving both lands untapped.
-3. Station Kavaron twice, with 2 of the titans. Then activate Kavaron, sacrificing a bounceland, giving both remaining titans haste.
+3. Station Kavaron twice, with 2 of the titans. Then activate Kavaron, sacrificing itself, giving both remaining titans haste.
 4. Attack with both titans, first trigger grab otawara and gardens. Copy amulet with gardens using the mana from Otawara.
 5. 2nd trigger, grab Urza's cave and SGC, float 4 mana from SGC, return Otawara. Bounce the nontoken titan to hand with Otawara.
 6. 2nd main, crack cave using SGC and the untapped land from pre-combat. Grab a bounceland, floating 6 mana and casting a titan.
 7. Grab Tolaria West and bounceland, floating 9 mana, returning tolaria west with the bounce trigger. Transmute for pact, pact for analyst.
 8. Cast and crack analyst, returning mirrorpool, tolaria west, a bounceland, urza's cave, and 2 echoing deeps each copying urza's cave.
-9. Float 16 mana, leaving all 3 urza's cave untapped and bouncing tolaria west. Transmute tolaria west for zuran orb and cast it, 13 mana.
-10. Crack 2 caves, one for shifting woodlands and 1 for urza's saga, 7 mana. Float 2 mana from these lands, sac urza's saga to zuran orb and start looping.
+9. Float 16 mana, leaving all 3 urza's cave untapped and bouncing tolaria west.
+10. Crack a cave for a bounceland, putting us at 19 mana, picking up tolaria west. Transmute for zuran orb, cast it. 16 mana floating.
+11. Crack 2 caves, one for shifting woodlands and 1 for urza's saga, 10 mana. Float 2 mana from these lands, sac urza's saga to zuran orb and start looping.
 
 ### Result
 
