@@ -109,9 +109,8 @@ _Post–Lotus Field-ban Amulet Scapeshift / Titan combo reference._
 5. 2nd trigger, grab Urza's cave and SGC, float 4 mana from SGC, return Otawara. Bounce the nontoken titan to hand with Otawara.
 6. 2nd main, crack cave using SGC and the untapped land from pre-combat. Grab a bounceland, floating 6 mana and casting a titan.
 7. Grab Tolaria West and bounceland, floating 9 mana, returning tolaria west with the bounce trigger. Transmute for pact, pact for analyst.
-8. Cast and crack analyst, returning mirrorpool, tolaria west, a bounceland, urza's cave, and 2 echoing deeps each copying urza's cave.
-9. Float 16 mana, leaving all 3 urza's cave untapped and bouncing tolaria west.
-10. Crack a cave for a bounceland, putting us at 19 mana, picking up tolaria west. Transmute for zuran orb, cast it. 16 mana floating.
+8. Cast and crack analyst, returning mirrorpool, tolaria west, Kavaron, urza's cave, and 2 echoing deeps each copying urza's cave.
+9. Float 15 mana, leaving all 3 urza's cave untapped. Crack a cave for a bounceland, putting us at 18 mana, picking up tolaria west. Transmute for zuran orb, cast it. 15 mana floating.
 11. Crack 2 caves, one for shifting woodlands and 1 for urza's saga, 10 mana. Float 2 mana from these lands, sac urza's saga to zuran orb and start looping.
 
 ### Result
