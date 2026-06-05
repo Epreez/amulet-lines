@@ -89,6 +89,36 @@ _Post–Lotus Field-ban Amulet Scapeshift / Titan combo reference._
 2. Dies to Consign/Solitude, as is typical for Titan + 2 Amulet lines.
 3. Bounce-intensive. As written, asks for 6 bouncelands. New lines may be possible that cut this down.
 
+## Two amulet titan kill that does not die to spelunking submitted by Epreez
+
+### Starting Conditions
+- Decklist changes:  Add Kavaron, Memorial World and a 2nd copy of echoing deeps/mirrorpool.
+- Battlefield: Have at least one land in play.
+- Hand: None
+- Graveyard: None
+- Floating mana: None
+- Land drop available: No
+- Relevant library contents: 5 bouncelands, 1 Simic Growth Chamber, Kavaron, Mirrorpool, 1 Echoing deeps, 1 echoing deeps/mirrorpool, Tolaria West, Summoner's Pact, crumbling vestige, and Aftermath Analyst in deck.
+
+### Line
+
+1. Titan enters, grab mirrorpool and a bounceland, copy titan. Repeat this process twice with bouncelands and echoing deeps/mirrorpool. Return 2 of the bouncelands and your starting land to your hand.
+2. 3rd titan copy enters, grab Kavaron and a Crumbling Vestige, float 2 mana, leaving both lands untapped.
+3. Station Kavaron twice, with 2 of the titans. Then activate Kavaron, sacrificing a bounceland, giving both remaining titans haste.
+4. Attack with both titans, first trigger grab otawara and gardens. Copy amulet with gardens using the mana from Otawara.
+5. 2nd trigger, grab Urza's cave and SGC, float 4 mana from SGC, return Otawara. Bounce the nontoken titan to hand with Otawara.
+6. 2nd main, crack cave using SGC and the untapped land from pre-combat. Grab a bounceland, floating 6 mana and casting a titan.
+7. Grab Tolaria West and bounceland, floating 9 mana, returning tolaria west with the bounce trigger. Transmute for pact, pact for analyst.
+8. Cast and crack analyst, returning mirrorpool, tolaria west, a bounceland, urza's cave, and 2 echoing deeps each copying urza's cave.
+9. Float 16 mana, leaving all 3 urza's cave untapped and bouncing tolaria west. Transmute tolaria west for zuran orb and cast it, 13 mana.
+10. Crack 2 caves, one for shifting woodlands and 1 for urza's saga, 7 mana. Float 2 mana from these lands, sac them to zuran orb and start looping.
+
+### Result
+
+Analyst Loop post combat with the ability to grab any land from the deck and make infinite titans.
+
+### Notes
+Note: This line does not die to Spelunking because we station Kavaron and attack with 2 Titans. We can move to second main with 3 amulets, cave, and mana to activate because we enter combat with an extra land. Kavaron also sacrifices a bounceland so we only need 5 in deck.
 ---
 
 ### Titan with 2 Amulets and 4 Floating: Pre-Combat Win
