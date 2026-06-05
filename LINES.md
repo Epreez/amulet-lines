@@ -97,7 +97,7 @@ _Post–Lotus Field-ban Amulet Scapeshift / Titan combo reference._
 - Graveyard: None
 - Floating mana: None
 - Land drop available: No
-- Relevant library contents: 6 bouncelands, 1 Simic Growth Chamber, Kavaron, Mirrorpool, 1 Echoing deeps, 1 echoing deeps/mirrorpool, Tolaria West, Summoner's Pact, crumbling vestige, and Aftermath Analyst in deck.
+- Relevant library contents: 6 bouncelands, 1 Simic Growth Chamber, Kavaron, Mirrorpool, 1 Echoing deeps, 1 echoing deeps/mirrorpool, Tolaria West, Summoner's Pact, 3 crumbling vestige, and Aftermath Analyst in deck.
 
 ### Line
 
