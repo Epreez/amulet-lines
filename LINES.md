@@ -93,7 +93,6 @@ _Post–Lotus Field-ban Amulet Scapeshift / Titan combo reference._
 
 ### Starting Conditions
 - Decklist changes:  Add Kavaron, Memorial World and a 2nd copy of echoing deeps/mirrorpool.
-- Battlefield: Have at least one land in play.
 - Hand: None
 - Graveyard: None
 - Floating mana: None
@@ -110,8 +109,8 @@ _Post–Lotus Field-ban Amulet Scapeshift / Titan combo reference._
 6. 2nd main, crack cave using SGC and the untapped land from pre-combat. Grab a bounceland, floating 6 mana and casting a titan.
 7. Grab Tolaria West and bounceland, floating 9 mana, returning tolaria west with the bounce trigger. Transmute for pact, pact for analyst.
 8. Cast and crack analyst, returning mirrorpool, tolaria west, Kavaron, urza's cave, and 2 echoing deeps each copying urza's cave.
-9. Float 15 mana, leaving all 3 urza's cave untapped. Crack a cave for a bounceland, putting us at 18 mana, picking up tolaria west. Transmute for zuran orb, cast it. 15 mana floating.
-11. Crack 2 caves, one for shifting woodlands and 1 for urza's saga, 10 mana. Float 2 mana from these lands, sac urza's saga to zuran orb and start looping.
+9. Float 13 mana, leaving all 3 urza's cave untapped. Crack a cave for a bounceland, putting us at 16 mana, picking up tolaria west. Transmute for zuran orb, cast it. 13 mana floating.
+11. Crack 2 caves, one for shifting woodlands and 1 for urza's saga, 7 mana. Float 2 mana from these lands, sac urza's saga to zuran orb and start looping.
 
 ### Result
 
